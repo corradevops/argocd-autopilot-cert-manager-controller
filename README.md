@@ -1,0 +1,1 @@
+# argocd-autopilot-cert-manager-controller
